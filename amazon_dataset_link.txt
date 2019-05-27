@@ -1,0 +1,3 @@
+https://drive.google.com/open?id=1lYNzTH54R7sQUD1aj5jXkSP2l3RxGZqI
+
+Please download both file. Place .csv file in one folder with the notebook, and the .sav file in one folder with the amazon.py file 
